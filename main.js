@@ -5,7 +5,7 @@
   Description: A Tetris clone made in vanilla JavaScript as a coding exercise.
     "Matris" comes from legally distinguishing itself from an official Tetris
     game, as well as for the 2D matrix used to represent the grid.
-  Publish date: TBD
+  Publish date: 06/30/2022
 
 */
 
